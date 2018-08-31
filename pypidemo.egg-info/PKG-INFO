@@ -1,0 +1,12 @@
+Metadata-Version: 1.2
+Name: pypidemo
+Version: 1.0.0
+Summary: 这是一个测试库
+Home-page: https://github.com/hongtianjun/pypidemo.git
+Author: Hongtianjun
+Author-email: htj0414@163.com
+Maintainer: Tianjun Hong
+Maintainer-email: htj0414@163.com
+License: LICENSE
+Description: 我是谁
+Platform: any
